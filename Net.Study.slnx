@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/ProgrammingPrinciple/" />
+  <Folder Name="/ProgrammingPrinciple/OOP/">
+    <Project Path="Net.Study.OOPPrinciple.Encapsulation/Net.Study.OOPPrinciple.Encapsulation.csproj" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+  </Folder>
+</Solution>
